@@ -1,7 +1,7 @@
 # Add  code here!
 def prime?(number)
   divider_found = false
-  i = 1
+  i = 2
   while(i < number)
   
     if(number % i) == 0
