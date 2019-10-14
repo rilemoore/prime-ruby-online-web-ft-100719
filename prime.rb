@@ -1,6 +1,7 @@
 # Add  code here!
 def prime?(number)
   divider_found = false
+  if(number >)
   i = 2
   while(i < number)
   
