@@ -9,5 +9,5 @@ def prime?(number)
     end
     i += 1
   end
-  return divider_found
+  return !divider_found
 end
